@@ -1,0 +1,33 @@
+{
+  "name": "magictool/container",
+  "type": "library",
+  "description": "dev help tools",
+  "keywords": [
+    "dev",
+    "tools",
+    "utils"
+  ],
+  "homepage": "https://github.com/super-tudou",
+  "license": "Apache-2.0",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "authors": [
+    {
+      "name": "tu.dou",
+      "email": "244395692@qq.com",
+      "homepage": "https://github.com/super-tudou",
+      "role": "master"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Dependency\\": "src/",
+      "App\\": "test/App/"
+    },
+    "files": [
+      "src/Helper/Helper.php"
+    ]
+  }
+}
