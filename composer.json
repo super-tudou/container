@@ -9,7 +9,7 @@
   ],
   "homepage": "https://github.com/super-tudou",
   "license": "Apache-2.0",
-  "minimum-stability": "stable",
+  "minimum-stability": "v1.2.0",
   "require": {
     "php": ">=5.5.0"
   },
