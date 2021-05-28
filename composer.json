@@ -8,8 +8,11 @@
     "utils"
   ],
   "homepage": "https://github.com/super-tudou",
-  "license": "Apache-2.0",
-  "minimum-stability": "dev",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/super-tudou/container"
+  },
+  "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
     "php": ">=5.5.0"
