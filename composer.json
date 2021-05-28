@@ -9,6 +9,7 @@
   ],
   "homepage": "https://github.com/super-tudou",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": ">=5.4"
   },
